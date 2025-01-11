@@ -1,0 +1,45 @@
+body {
+    background-color: #121212;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0;
+
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+header {
+    width: 100%;
+    padding: 60px 4px;
+    border-bottom: 0.5px solid #00FFFF;
+
+}
+
+header img {
+    height: 140px;
+}
+
+header ul li {
+    display: inline-block;
+    margin: 0 40px;
+   
+
+}
+
+header ul li a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+   
+
+}
