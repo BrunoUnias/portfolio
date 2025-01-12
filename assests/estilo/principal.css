@@ -1,0 +1,69 @@
+main {
+    background-image: url('../image/96109-minimalism-minimalist-artist-artwork-digital-art-hd-4k-computer.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.social {
+    display: block;
+    flex-direction: column;
+    position: absolute;
+    
+
+}
+
+.social ul {
+    margin-top: 128px;
+    margin-left:  1293px;
+
+}
+
+.social ul li a i{
+    align-items: center;
+    color: #DCDCDC;
+    cursor: pointer;
+    font-size: 32px;
+    margin-top: 8px;
+    margin-left: 4px;
+    padding-top: 12px;
+
+}
+
+.qd1 {
+    width: 42px;
+    height: 42px;
+    align-items: center;
+    background-color: #DCDCDC;
+   
+    border-radius: 5px;
+}
+
+.qd1 i{
+    font-size: 24px;
+    color: #2F4F4F;
+}
+
+.qd1 i {
+    margin-top: 8px;
+    margin-left: 15px;
+    
+}
+
+.qd2 {
+    width: 42px;
+    height: 42px;
+    align-items: center;
+    background-color: #DCDCDC;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.qd2 i{
+    font-size: 24px;
+    color: #2F4F4F;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
