@@ -6,17 +6,24 @@ main {
 
 }
 
-.social {
-    display: block;
-    flex-direction: column;
-    position: absolute;
-    
+.center {
+    padding: 120px 4px;
 
 }
 
-.social ul {
-    justify-content: right;
-    margin-left:  1293px;
+.center ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.social .menuLateral {
+    display: block;
+    flex-direction: column;
+    position: absolute;
+    margin-left: 121px;
+    
 
 }
 
