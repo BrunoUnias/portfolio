@@ -6,6 +6,14 @@ main {
 
 }
 
+.contato {
+    display: flex;
+    font-size: 52px;
+    color: #DCDCDC;
+    margin-left: 8px;
+    padding-top: 12px;
+}
+
 .center {
     padding: 120px 4px;
 
